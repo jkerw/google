@@ -1,3 +1,2 @@
-# google
-Course 3 Lab
-#I am editing the README file. Adding some more details about the project description.
+# Google Automation Course with Python
+Code practice from the labs associated with the course.
